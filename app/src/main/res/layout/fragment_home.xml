@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="@dimen/_10sdp"
+    android:background="@drawable/rectangle_coner_home_fragment"
+    android:paddingHorizontal="@dimen/_15sdp"
+    tools:context=".fragment.HomeFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarMenuHome"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imgMenuDraw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:src="@drawable/ic_menu_home_left"/>
+        <ImageView
+            android:id="@+id/imgUser"
+            android:layout_marginEnd="5sp"
+            android:layout_gravity="end"
+            android:layout_width="25sp"
+            android:visibility="gone"
+            android:layout_height="25sp"
+            android:src="@drawable/user"/>
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:layout_below="@id/toolbarMenuHome">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/txtHomeFOne"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:autoSizeMaxTextSize="@dimen/_14ssp"
+                    android:autoSizeMinTextSize="@dimen/_12ssp"
+                    android:fontFamily="@font/roboto"
+                    android:text="@string/hello"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/txtHomeFTwo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/txtHomeFOne"
+                    android:autoSizeMaxTextSize="@dimen/_14ssp"
+                    android:autoSizeMinTextSize="@dimen/_12ssp"
+                    android:fontFamily="@font/roboto_bold"
+                    android:text="@string/you"
+                    android:textColor="#333333" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/txtHomeFThree"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_weight="1"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/what_can_i_translate_for_you_today"
+                android:textColor="#333333"
+                android:textSize="@dimen/_15ssp" />
+
+            <ImageView
+                android:id="@+id/voiceBanner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:src="@drawable/ic_voice_trans" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_translate_icon"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="8"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:nestedScrollingEnabled="false" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+
+</RelativeLayout>

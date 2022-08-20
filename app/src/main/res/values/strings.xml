@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Translate All</string>
+    <string name="desOnBoard">Lorem lpsum is simply dummy text of the printing and typesetting industry Lorem lpsum has been.</string>
+    <string name="what_can_i_translate_for_you_today">What can I translate for you today?</string>
+    <string name="you">,You</string>
+    <string name="hello">Hello</string>
+
+    <string name="not_find_google">Could not find an google application \nNo app to recognize voice </string>
+    <string name="install">INSTALL</string>
+    <string name="voice_translate">Voice Translate</string>
+    <string name="form">Form</string>
+    <string name="to">To</string>
+    <string name="show_language">Select Language</string>
+    <string name="search_hint">Search Language</string>
+    <string name="please_wait">Please Wait....</string>
+    <string name="camera_translate">Camera Translate</string>
+    <string name="no_text_found">Couldn\'t Find any text in here…</string>
+
+    <string name="term_content">
+        <![CDATA[ <p><strong>Terms of Use</strong></p>
+        <p>Thank you for using Note. Note is a smart mobile app developed and operated by we. Note user (hereinafter “you” or “your”) means the user who has completed all registration procedures, is willing to accept this Terms of Use, and voluntarily uses the Note services under the usage regulations of Note.
+
+In order to use Note services, you shall read and comply with this Terms of Use (these “Terms”) and the Privacy Policy. Please carefully read and fully understand the contents of each clause hereof, especially the clause exempting or limiting the liability of Note, the clause limiting your rights and the clause on dispute resolution and governing law.
+
+If you continue to use this application, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern app relationship with you about this application. If you disagree with any part of these terms and conditions, please do not use our application.
+
+Unless you have fully read, understood and accepted all the terms hereof, you are not permitted to use Note services. By clicking “Sign Up” or “Login”, or starting to use Note services, or accepting these Terms in any other express or implied manner, you will be deemed to have read and agreed to execute these Terms, upon which these Terms will become legally effective between, and be binding upon, you and Note.</p>
+
+<p>I. Scope of Terms</p>
+
+<p>1.1 These Terms is entered into between you and Note in respect of your use of the services provided by Note app.</p>
+
+<p>1.2 Note services mean the products and services provided by Note to you, including without limitation instant messaging, online media,
+ Internet value-added services, interactive entertainment and advertising, which shall be subject to those actually provided by Note (“Services”).</p>
+
+<p>II. Regulations on Use of Services</p>
+
+<p>2.1 For the purpose of this Article, contents mean any contents produced, uploaded, duplicated, published or distributed during your use of the Services, including without limitation account profile picture, name, user profile and other registration information and identification materials, or messages in the forms of text, audio, picture, video, graphic or otherwise sent, received or automatic reply and relevant links, and other contents generated from use of your Note account or the Services.</p>
+
+<p>2.2 You shall not use your Note account or the Services to produce, upload, duplicate, publish or distribute contents prohibited by the laws of the host government</p>
+
+<p>2.3 You shall not use your Note account or the Services to produce, upload, duplicate, publish or distribute contents that disturb normal operation of Note or infringe upon lawful rights and interests of other users or third parties, including those:</p>
+<p>(1) contain any sexuality or sexual connotations (e.g., expressions implying booty call, prostitution, descriptions of private parts, etc.);</p>
+<p>(2) insult, intimidate or threaten others;</p>
+<p>(3) contain harassment, spam, malicious information or solicitation;</p>
+<p>(4) involve others’ privacy, personal information or data (e.g., detailed address, detailed job description, etc.);</p>
+<p>(5) publish, distribute, spread or store information damaging rights of reputation, portrait rights, intellectual property rights, trade secrets, and other legitimate rights of others;</p>
+<p>(6) photograph or record others secretly without any permission of others which infringes the legal rights of others;</p>
+<p>(7) submit or publish false information, or impersonate others or utilize other’s name;</p>
+<p>(8) publish information which is meaningless, or use combination of characters in order to evade technical review intentionally; or</p>
+<p>(9) contain other information in violation of laws, regulations, policies, public order and social customs, and social morality, or otherwise interfering with the normal operation of the Services and infringing the legitimate rights and interests of other users or third parties.</p>
+
+<p>2.4 In order to provide better Services to you, Note has formulated the following additional terms to regulate its users’ acts in respect of their use of Note:</p>
+<p>(1) No phone number or similar information may be contained in personalized signature, profile picture of a person or a group, update, or group profile;</p>
+<p>(2) No picture containing website link (other than links to Qzone and Weibo), watermark of phone number, or QR code may be uploaded as profile picture of a person or group, or picture of update, or to photo album;</p>
+<p>(3) No identity photo or similar picture may be uploaded as profile picture of a person or group, or picture of update, or to photo album;</p>
+<p>(4) No text or picture relating to marketing, entrepreneurship or pyramid selling may be used in personalized signature, profile picture of a person or group, update, photo album, picture of update, or group profile;</p>
+<p>(5) No picture of unrelated females (excluding photos of female celebrities and cartoon characters) may be uploaded as profile picture of a person or group, or to photo album; and</p>
+<p>(6) No logo that appears to be related to advertising or other apps, extremely fuzzy cartoon, or solid color block may be uploaded as profile picture of a person or group, or to photo album.</p>
+
+<p>2.5 In the case of your breach of this Article and relevant laws and regulations, Note has right to, at its sole discretion, restrict, freeze or terminate your use of the Note account and determine whether to resume your use thereof based on actual situation. Special notes:</p>
+<p>(1) Repeated uploading of the same non-compliant information may lead to account ban;
+<p>(2) Breach of any of the above terms may lead to account ban; Note does not assume any responsibility for any inability to use your account and its related services as well as inability to obtain assets or other rights and interests in your account resulting from any violation of this clause. Note is entitled to announce the processing results and to decide whether to resume related accounts based on the actual situation or not. Note will keep relevant records of suspected violations of laws and regulations and suspected crimes, and is entitled to report to relevant competent authorities in accordance with laws, to cooperate with such competent authorities to investigate, and to report to public security organizations. Note has the right to not restore any deleted content.</p>
+
+<p>2.6 Any content distributed during your use of the Services or through the Services does not reflect Note opinion or policy, for which Note shall assume no liability.
+<p>
+<p>2.7 You shall guarantee that you are the copyright owner of, or have obtained legal authorization for, the content uploaded or published by you on Note, and such content will not infringe legitimate rights and interests of any third party (including without limitation portrait right and right of reputation). With respect to all contents published by you on Note, Note has the right and interest as the exclusive platform for the publishing thereof, and the right to use such contents for an indefinite period and for free. In addition, the contents published by you may be reproduced, distributed or reposted on Note to a reasonable extent. Otherwise, Note has the right to remove the allegedly infringing content upon receiving notification from the party who is entitled to have right to such content or other related parties. For all claims made by third parties, you shall handle and bear all legal liabilities that may arise from it; in the event that Note and its related parties suffer any losses due to your infringement (including but not limited to losses on economic and goodwill), you shall compensate Note and its affiliates for all losses incurred in full as well, and if there is any third-party complaint or claim, you shall handle and bear all legal liabilities that may arise from the aforesaid.</p>
+<p>You may publish the works fully owned by yourself on other platforms out of your own will, provided however that you shall not directly or indirectly use or authorize any third party to use any contents on Note in any form without prior written permission of Note.</p>
+
+<p>2.8 You understand and agree that in order to maintain security and order of the Internet and protect legitimate rights and interests of Internet users, if Note discovers or receives report from others that you have violated relevant agreements, these Terms or relevant regulations or policies, Note has the right to, at its sole discretion, take one or more of the following measures unilaterally at any time based on corresponding circumstances (the duration of such measures will be determined by Note depending on the severity of your violations of relevant regulations or agreements), with any loss or any claim or demand from a third party caused or incurred thereby to be assumed by you:</p>
+<p>(1) to issue a warning to you;</p>
+<p>(2) to restrict, suspend or terminate your use of all or part of the features of Note or the Services (including without limitation restricting addition of new friends or delivery of friend requests);</p>
+<p>(3) to delete or block relevant contents, or disconnect relevant links;</p>
+<p>(4) to suspend or terminate your use of your Note account (“Account Ban”);</p>
+<p>(5) to remove your friends; and/or</p>
+<p>(6) to hold you legally liable therefor pursuant to laws.</p>
+<p>III. Security of Account and Password</p>
+<p>3.1 You may be required to register an account in order to use the Services. Please carefully read and comply with relevant separate agreement in relation to the detailed rules on the use of your account.</p>
+<p>3.2 In order to improve your experience and/or technical convenience, the account for the Services may be in the forms of numbers, letters or a combination thereof, and may be logged in to using mobile phone number, email address, or your account with other apps. The specific account form, account system and association between accounts shall be subject to those actually provided by Note.</p>
+<p>3.3 You are advised to properly keep your account, password and third-party account. You shall safely log out of your account when you cease to use Note. You shall be solely liable for theft of your account or password due to your improper keeping thereof. In the event that you log in via your account with another app, Note will not require you to set a password.</p>
+<p>3.4 During your use of the Services, you may set nickname, profile picture, signature or message for your account, and may also set name, picture and profile for any group that you establish, manage or join. You shall ensure that the contents and forms of the above information are in compliance with laws and regulations (for the purpose of these Terms, “laws and regulations” mean the laws, administrative regulations, judicial interpretations, local regulations and rules, department regulations and other normative documents currently in force, as amended and supplemented from time to time, and relevant policies of the region or country in which you are resident/located, the same below), public order and social customs, social morality, and the rules of Note platform, and will not infringe legitimate rights and interests of any party.</p>
+<p>IV. Protection of Personal Information</p>
+<p>4.1 Protection of your personal information is one of the fundamental principles of Note. Note will collect, use, store and share your personal information in accordance with these Terms and the Privacy Policy (see the Privacy Policy for details). For any matter regarding protection of personal information not covered herein, the provisions of the Privacy Policy shall prevail.</p>
+<p>4.2 You may be required to provide certain necessary information during your registration of your account or your use of the Services. You are required to provide true identity information if specifically required by national laws and regulations. If the information provided by you is incomplete, you may be unable to use the Services or your use of the Services may be restricted.</p>
+<p>4.3 In general, you may review and modify the registration information submitted by yourself in accordance with relevant product rules.</p>
+<p>4.4 Note will use its best efforts to adopt security technologies and programs to establish a sound management system, so as to protect your personal information from any unauthorized access, use or disclosure.</p>
+<p>4.5 Note will not transfer or disclose your personal information to any third party, unless:</p>
+<p>(1) it is required by relevant laws and regulations, or by judicial or administrative authority;</p>
+<p>(2) such transfer is for the completion of merger, division, acquisition or asset transfer;</p>
+<p>(3) it is necessary for provision of the Services at your request;</p>
+<p>(4) it is permitted by the Privacy Policy or other relevant agreements or rules;</p>
+<p>(5) such information is directly related to public security, public health or major public interests; or</p>
+<p>(6) otherwise agreed by you.</p>
+<p>4.6 Note attaches great importance to the protection of personal information of minors. If you do not have full capacity for civil conducts, you are unable to use the Services.</p>
+<p>V. Service Fee</p>
+<p>5.1 Fees will be charged for part of the Services. Relevant agreements (see the Value-Added Service Agreement and the Beans Top-up Service Agreement for details) are to be complied with in the event you use any paid Services.</p>
+<p>5.2 Note may adjust and modify the fee rates and payment methods of the paid Services based on actual needs, and may start to charge for part of free-of-charge Services. Note will publish a notice or announcement on relevant Service webpages before the above adjustment, modification or charges. If you disagree with the above adjustment, modification or charges, you shall cease to use the Services.</p>
+<p>5.3 Where Note decreases the fee rates for the paid Services or changes any paid Services to free-of-charge Services, it reserves the right to make no refund of such fee to, and make no adjustment to such fee already paid by, the relevant users.</p>
+<p>5.4 Affected by global exchange rates and settlement methods, the fee rates for the paid Services may vary between countries and regions. Note reserves the right to make no refund or price difference of such Service fee to, and make no adjustment to the fee already paid by, the relevant users.</p>
+<p>VI. Risk Alert</p>
+<p>6.1 Please carefully read and fully understand the terms of the Services, and consider relevant risks depending on your own situation. For the purpose of provision of effective Services, bandwidth, processor and other resources of terminals may be required for the Services, during which dataflow charges may be incurred. You shall inquire relevant operators about details of such charges and bear the same on your own.</p>
+<p>6.2 For your use of the Services, you must independently bear the following risks beyond Note control, including without limitation the risk of information loss that may be caused by malicious programs, hacker attacks or other force majeure; the failure to log in to your account, incomplete data synchronization, or slow load speed of webpages caused by the failure of your or Note app, hardware, system or telecommunication lines; your improper operations, and other circumstances which are beyond Note control or are not reasonably foreseeable by Note.</p>
+<p>6.3 If you do not have full capacity for civil conducts due to age, intelligence or otherwise, you are unable to use the Services provided by Note.</p>
+<p>6.4 You shall understand that the contents published by you through the Services may be reproduced, reposted, modified or used for other purposes by other users or third parties. You shall have knowledge and awareness of any risk and liability that may arise therefrom, and shall not publish on Note any information that you do not wish to be known by others, including without limitation information on your certificates.</p>
+<p>6.5 You should understand that there may be information on loans, investment and financing, financial management or other property-related information, passwords of account, advertisements or promotion information from others while using our service. You yourself shall be cautious and make your own judgment and bear the above-mentioned risks. Note does not provide any kind of guarantee for our service, whether explicit or implicit, including all express or implied guarantees and conditions related to the authenticity, ownership and non-infringement of the information. Note does no assume any liability for damages caused by your improper or illegal use of services.</p>
+<p>6.6 You shall understand that in the use of the Services, risks exist that others may provide or conduct threatening, slanderous, repulsive or illicit contents or acts or provide anonymous or fake information which infringes on the rights of others, which risks shall be borne by yourself, and that Note will not make any type of guarantee for the Services, either express or implied, including express or implied guarantees or conditions concerning authenticity, ownership and non-infringement of all relevant information, nor will Note assume any liability for any damages due to your improper or illegal use of the Services arising therefrom.</p>
+<p>6.7 Note has the right to deal with illegal and non-compliant contents or acts pursuant to these Terms, provided that such right does not constitute Note obligation or commitment. If any other user infringes your legitimate rights or interests, you may file a complaint to Note, which complaint will be handled by Note in accordance with laws and regulations.</p>
+<p>VII. Anti-Money Laundering</p>
+<p>7.1 Note has the right to obtain the information of valid identity certificates or other identification evidence of users who have economic dealings with Note in accordance with law.</p>
+<p>7.2 Where Note identifies any abnormality in your account, it has the right to check your account for verification. Note reserves the right to ban a user’s account if it identifies any violation by the user.</p>
+<p>7.3 Note will effectively fulfill such anti-money laundering obligations as customer identification and confidentiality.</p>
+<p>VIII. Compliance with Local Laws</p>
+<p>8.1 You shall comply with the applicable local laws and regulations and respect local morality and customs during your use of the Services.In the case of your violations of the local laws and regulations or morality and customs, you shall be solely liable therefor.</p>
+<p>8.2 You shall avoid rendering Note in violation of laws and regulation or involving Note in any political and public incidents due to your use of the Services; otherwise Note may suspend or terminate the Services provided to you.</p>
+<p>IX. Contents Sent and Disseminated by User and Complaint Handling</p>
+<p>9.1 You are solely responsible for the contents (including but not limited to webpages, texts, pictures, audios, videos and graphics) you send or disseminate through the Services.</p>
+<p>9.2 The contents you send or disseminate shall be from legal sources, and you shall be the owner of or authorized for such contents.</p>
+<p>9.3 Where the contents you send or disseminate violate laws and regulations or the rights of others, Note has the right to, at its sole discretion, take such measures as deletion, blocking or disconnection of links.</p>
+<p>9.4 In case of a complaint by or against you, Note has the right to provide necessary information such as the parties thereto, contact information, particulars of the complaint and other relevant information to the relevant parties or competent authorities so as to resolve the complaint or dispute in a timely manner and protect the legitimate rights and interests of all the relevant parties.</p>
+<p>9.5 You undertake to be responsible for the authenticity, legality and validity of the information, materials and evidence you provide in the complaint handling procedure.</p>
+<p>X. Advertisement</p>
+<p>10.1 You understand and agree that during your use of Note and its related services, the Company may forward you relevant information, advertisements or brand promotion services, and the Company will display commercial advertisements, promotions or information (including commercial or non-commercial information) in relation to Note and its relate services and/or any third-party suppliers and partners in Note and its relate services.</p>
+<p>10.2 The Company will fulfill its obligations related to advertising and promotion in accordance with laws and you yourself shall judge the authenticity and reliability of such advertisement or promotion information and be responsible for your own judgment. Except as clearly stipulated by laws and regulations, you yourself shall bear all your purchase and transaction due to such advertisements and promotions as well as any damages or losses due to the foregoing content, and the Company shall not be liable for any of the forgoing.</p>
+<p>XI. Force Majeure and Other Exemptions</p>
+<p>11.1 You understand and agree that there may be risks such as force majeure that may affect the Services during your use thereof. Force majeure means unforeseeable, insurmountable and unavoidable objective events that cause a material impact on either party or both parties, including but not limited to natural disasters such as flood, earthquake, epidemic, storm, and social events such as war, riot and act of government. In case of any of the above circumstances, Note will try its best to cooperate with relevant parties as soon as possible to deal with the same in a timely manner, provided that Note will be exempted from liability for the losses caused to you therefrom to the extent permitted by law.</p>
+<p>11.2 To the extent permitted by law, Note shall not be liable for interruption or obstruction of the Services as a result of:</p>
+<p>(1) damage caused by computer viruses, trojan horses or other malicious programs, or hacker attacks;</p>
+<p>(2) failure of the user’s or Note software, system, hardware or telecommunication lines;</p>
+<p>(3) the user’s improper operations or uses of the Services in a way that is not authorized by Note;</p>
+<p>(4) outdated app version, aged device and/or its compatibility problems; or</p>
+<p>(5) other circumstances which are beyond Note control or are not reasonably foreseeable by Note.</p>
+<p>11.3 You understand and agree that there may be risks caused by network information or other users’ acts during your use of the Services. Note will neither be responsible for the authenticity, applicability and legality of any information, nor be liable for damages caused to you by infringement. The aforesaid risks include but are not limited to:</p>
+<p>(1) anonymous or imposture information from others containing threatening, slanderous, repulsive or illicit contents;</p>
+<p>(2) actual or potential psychological and physical injury as well as economic loss caused by other’s misguide, deception or otherwise; and</p>
+<p>(3) other risks caused by network information or user acts.</p>
+<p>11.4 Note has the right to deal with illegal and non-compliant contents pursuant to these Terms, provided that such right does not constitute Note obligation or commitment to timely identify any illegal acts or deal with the same accordingly.</p>
+<p>11.5 Under no circumstances shall you be credulous in information relating to borrowing money, asking for passwords or other information concerning property. In case of operation involving property, you are advised to verify the identity of the counterparty first and pay attention to Note instructions on fraud prevention from time to time.</p>
+<p>XII. Effectiveness of Modification of these Terms</p>
+<p>12.1 By using the Services, you will be deemed to have read and agreed to be bound by these Terms.</p>
+<p>12.2 Note has the right to amend the terms of these Terms where necessary. The latest version of these Terms will be available on the relevant Service webpages.</p>
+<p>12.3 You will be deemed to have accepted the modified Terms if you continue to use the app or the Services provided by Note after such modification of these Terms.</p>
+<p>XIII. Change, Suspension and Termination of the Services</p>
+<p>13.1 You understand and agree that Note may change, interrupt, suspend or terminate the Services in light of its adjustment of business strategy.</p>
+<p>13.2 In case of merger, division, acquisition or asset transfer of Note, Note may transfer relevant assets hereunder to a third party; Note may also transfer any or all of the Services and corresponding rights and obligations hereunder to a third party for operation or performance with a notice to you. The specific transferee shall be subject to Note notice.</p>
+<p>13.3 Note has the right to suspend or terminate the Services to you without notice:</p>
+<p>(1) if the personal data you provide is not true, or inconsistent with the information you provide at the time of registration and you fail to provide reasonable proof, as according to laws and regulations you are required to submit true information;</p>
+<p>(2) if you violate the provisions of relevant laws and regulations or breach these Terms;</p>
+<p>(3) if required by laws and regulations or judicial or competent authorities to do so; or</p>
+<p>(4) for security or other necessary reasons.</p>
+<p>13.4 Note has the right to charge fees in accordance with Article 5 of these Terms, and may interrupt, suspend or termi</p>]]>
+    </string>
+
+
+    <string name="privacy_content">
+         <![CDATA[ <p><strong>Privacy Policy</strong></p>
+        <p>This SERVICE is provided by us, at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Contacts Backup unless otherwise defined in this Privacy Policy.
+
+Information Collection and Use
+
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+
+The app does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by the app</p>
+
+<p>Log Data</p>
+
+<p>We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+
+Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.</p>
+
+<p>Service Providers</p>
+
+We may employ third-party companies and individuals due to the following reasons:
+
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+<p>Security</p>
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+<p>Links to Other Sites</p>
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+<p>Children’s Privacy</p>
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+<p>Changes to This Privacy Policy</p>
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+<p>Contact Us</p>
+
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at suntectltd.software@gmail.com</p>]]>
+    </string>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imgOnBoard"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:layout_height="0dp"
+        android:layout_weight="1.7"
+        android:src="@drawable/voice_translate_preview" />
+
+    <TextView
+        android:id="@+id/titleOnBoard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:layout_gravity="center"
+        android:fontFamily="@font/roboto_medium"
+        android:gravity="center"
+        android:text="Voice Translate"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_18ssp" />
+
+    <TextView
+        android:id="@+id/desOnBoard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:fontFamily="@font/roboto"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:text="@string/desOnBoard"
+        android:textAlignment="center"
+        android:textSize="@dimen/_16ssp" />
+
+</LinearLayout>

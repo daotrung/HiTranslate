@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/toolbarMenu"
+    android:minHeight="?attr/actionBarSize"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imgMenuDraw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:src="@drawable/ic_menu_home_left"/>
+    <ImageView
+        android:id="@+id/imgUser"
+        android:layout_marginEnd="5sp"
+        android:layout_gravity="end"
+        android:layout_width="25sp"
+        android:visibility="gone"
+        android:layout_height="25sp"
+        android:src="@drawable/user"/>
+
+</androidx.appcompat.widget.Toolbar>
